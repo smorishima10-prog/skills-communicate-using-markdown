@@ -1,4 +1,14 @@
+# 大見出し
+## 中見出し
+### 小見出し
 # Communicate using Markdown
+
+![cat](https://example.com/cat.jpg)
+
+print("Hello")
+
+- [x] GitHub
+- [ ] Python
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
