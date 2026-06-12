@@ -3,7 +3,7 @@
 ### 小見出し
 # Communicate using Markdown
 
-![cat](https://example.com/cat.jpg)
+<img width="685" height="685" alt="pet_hoso_cat" src="https://github.com/user-attachments/assets/2f929412-d952-4a08-8bb1-3cdce76ae907" />
 
 print("Hello")
 
